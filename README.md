@@ -9,5 +9,5 @@
 
 需要在联网环境下实时获取数据
 
-运行 gaussian linear.py 为LDF、QDF、RDA、MQDF方法调用接口
-bayes.py 为parzen windows 方法接口文件
+LDF、QDF、RDA、MQDF方法调用接口为gaussian linear.py 
+parzen windows 方法接口文件为bayes.py
